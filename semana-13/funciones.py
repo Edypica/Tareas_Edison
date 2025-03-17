@@ -42,4 +42,4 @@ def calcular_prom (ciud,sem):  #Creamos la función calcular_prom y unos argumen
 
 #Imprimimos nuestra función y en los argumentos colocamos la ciduad y semana que queremos saber el promedio
 
-print(calcular_prom(0,1))
+print(calcular_prom(0,1))  #Resultado
